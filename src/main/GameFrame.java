@@ -7,6 +7,7 @@ import java.awt.*;
  * 窗体类
  */
 public class GameFrame extends JFrame {
+    //Jframe
     public GameFrame(){
         setTitle("五子棋");
         setSize(620,670);
